@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ammar Hafizh</h1>
-<h3 align="center">A Student at State Polytechnic of Malang</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+My+Profile!;Currently+Studying+at+Polytechnic+State+of+Malang;I'm+Currently+Learning+Java)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1708950%2Fscreenshots%2F4188877%2Fdeveloper_med.gif&f=1&nofb=1&ipt=bdc2ec24f85042767dd011a127aa108e06f58a77f16ec95e9aa11a230902e40b&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uhamhz&label=Profile%20views&color=0e75b6&style=flat" alt="uhamhz" /> </p>
