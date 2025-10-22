@@ -18,14 +18,14 @@
 <p align="left">
   <a href="https://twitter.com/uhamhz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="twitter" height="40" /></a>
   <a href="https://instagram.com/uhamhz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40" /></a>
-  <a href="https://linkedin.com/in/uhamhz" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
+  <a href="www.linkedin.com/in/muhammad-ammar-hafizh-9b8303264" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,mongodb,linux,figma,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,mysql,mongodb,linux,figma,unity,dart,flutter" />
 </p>
 
 ---
